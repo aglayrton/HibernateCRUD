@@ -10,8 +10,8 @@ public class Programa {
 	public static void main(String[] args) {
 		//inserirDados();
 		//alterarDados();
-		consultarDados();
-		//buscar();
+		//consultarDados();
+		buscar();
 	}
 	private static void inserirDados() {
 		Pessoa p = new Pessoa();
